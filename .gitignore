@@ -1,0 +1,4 @@
+#adding files name to be ignore by git repo using .gitignore even push to orgin cant see file
+# *.sameextention used for adding many files 
+detail
+
